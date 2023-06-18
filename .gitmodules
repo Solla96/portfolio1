@@ -1,0 +1,3 @@
+[submodule "next-portfolio"]
+	path = next-portfolio
+	url = https://github.com/Solla96/portfolio
